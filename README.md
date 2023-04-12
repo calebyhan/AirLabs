@@ -1,6 +1,6 @@
 **Project Portfolio: https://github.com/calebyhan/CalebHan**
 
-# airlabs-ch
+# airlabs
 
 Python wrapper for [AirLabs](https://airlabs.co/).
 
@@ -8,10 +8,10 @@ Python wrapper for [AirLabs](https://airlabs.co/).
 ## Installation
 ----------------------
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install currency-ch.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install airlabs.
 
 ```bash
-pip install airlabs-ch
+pip install airlabs
 ```
 
 
@@ -21,11 +21,11 @@ pip install airlabs-ch
 ```python
 import airlabs
 
-# converts amount of money from one currency to another
-currency.convert("usd", "eur", 1)
+# Gets airline information about American Airlines
+airlabs.airlines(iata_code="AA")
 
-# returns rate from one currency to another
-currency.rate("usd", "eur")
+# Gets information about real-time flights
+airlabs.flights()
 ```
 
 
