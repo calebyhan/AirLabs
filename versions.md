@@ -7,3 +7,5 @@
 0.0.3 - added readthedocs conf
 
 0.0.4 - fix import structure
+
+0.0.5 - update README
