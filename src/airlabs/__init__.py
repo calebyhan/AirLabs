@@ -1,1 +1,1 @@
-from endpoints import API
+from airlabs.endpoints import API
