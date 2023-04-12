@@ -1,5 +1,8 @@
 **Project Portfolio: https://github.com/calebyhan/CalebHan**
 
+[![PyPI version](https://badge.fury.io/py/airlabs.svg)](https://badge.fury.io/py/airlabs)
+[![Documentation Status](https://readthedocs.org/projects/airlabs/badge/?version=latest)](https://airlabs.readthedocs.io/en/latest/?badge=latest)
+
 # airlabs
 
 Python wrapper for [AirLabs](https://airlabs.co/).
