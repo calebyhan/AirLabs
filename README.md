@@ -32,17 +32,8 @@ airlabs.flights()
 ## Documentation
 ----------------------
 
-``currency.convert(input_currency, output_currency, amount, roundTo)``
+Documentation found in https://airlabs.readthedocs.io/en/latest/.
 
-Converts input_currency of amount (default 1) to output_currency with rounded to roundTo decimal places (default 2).
-
-``currency.rate(input_currency, output_currency, roundTo)``
-
-Returns rate of converting input_currency to output_currency rounded to roundTo decimal places (default 2).
-
-``currency.add(values, output_currency, roundTo)``
-
-Adds up currencies in 2-D array values (in format [amount, input_currency]), and displays in form of output_currency rounded to roundTo decimal places (default 2).
 
 ## Contributing
 ----------------------
