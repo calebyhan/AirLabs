@@ -1,4 +1,4 @@
-import functions
+import airlabs.functions as functions
 import requests
 
 

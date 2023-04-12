@@ -7,7 +7,7 @@ copyright = '2023, MIT'
 author = 'Caleb Han'
 
 release = '0.0'
-version = '0.0.5'
+version = '0.0.6'
 
 # -- General configuration
 
