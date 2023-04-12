@@ -11,3 +11,5 @@
 0.0.5 - update README
 
 0.0.6 - fix import
+
+0.0.7 - fix error

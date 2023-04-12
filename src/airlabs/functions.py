@@ -10,7 +10,7 @@ def error(msg: dict) -> list:
     """
 
     if "error" in msg:
-        return [True, f"Code: {msg['code']}, Message: {msg['message']}"]
+        return [True, f"Code: {msg['error']['code']}, Message: {msg['error']['message']}"]
     else:
         return [False]
 
